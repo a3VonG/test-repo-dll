@@ -5,7 +5,6 @@ The packages that need to be included are found in the `requirements.txt` file (
 
 Some rules:
 - You cannot manually rewrite the code in C/C++ as in the real project this would be unfeasible due to the size of the code project.
--  
  
 
 
